@@ -1,0 +1,14 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{background-color:red}
+.note
+{display:flex;
+  justify-content: space-evenly;
+  
+background-color:green}
+.home{background-color:yellow}
